@@ -1,0 +1,15 @@
+{
+  "name": "中餐馆pos",
+  "version": "1.0.0",
+  "description": "中餐馆点餐系统。",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "bootstrap": "tsx scripts/bootstrap-simple.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1"
+  },
+  "author": "jasonq"
+}
